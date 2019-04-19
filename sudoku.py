@@ -41,6 +41,7 @@ x = int(input("Enter Number that you want to delete: "))
 for i in range (x):
     example[randint(0, 9)][randint(0, 9)] = 0
 
+##Printing the generated Sudoku 
 print (example)
     
 
